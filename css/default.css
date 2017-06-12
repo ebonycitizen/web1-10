@@ -41,13 +41,13 @@ footer{
   }
 }
 
-@media screen and (min-width: 1025px){
+@media screen and (min-width:1025px){
   #main{
     max-width: 1024px;
     margin: auto;
   }
   section{
-    width: calc(80% - 20px);
+    width: calc(70% - 20px);
     float:left;
   }
   #side{
