@@ -47,7 +47,7 @@ footer{
     margin: auto;
   }
   section{
-    width: calc(70% - 20px);
+    width: calc(80% - 20px);
     float:left;
   }
   #side{
