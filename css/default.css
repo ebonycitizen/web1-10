@@ -6,6 +6,25 @@
 }
 
 body{
-  background-color: lavender;
+  background-color: silver;
   font-family: "Covered By Your Grace";
+}
+
+header{
+  padding: 10px;
+  text-align: center;
+  background: lightyellow;
+}
+section{
+  padding: 10px;
+  background-color: pink;
+}
+aside{
+  padding: 10px;
+  background-color: lightblue;
+}
+footer{
+  padding: 10px;
+  text-align: center;
+  background-color: lavender;
 }
