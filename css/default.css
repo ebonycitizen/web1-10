@@ -58,7 +58,7 @@ footer{
     width: calc(100% - 20px);
   }
   #main:after{
-    content="";
+    content:"";
     display:block;
     clear:both;
   }
