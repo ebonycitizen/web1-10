@@ -35,7 +35,7 @@ footer{
     float:left;
   }
   #side:after{
-    content="";
+    content:"";
     display:block;
     clear:both;
   }
